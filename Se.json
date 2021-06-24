@@ -1,64 +1,20 @@
-"se":{
-
-    "3":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/countdown5.mp3"},
-
-    "11":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/hule_fan_out.mp3"},
-
-    "25":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yiji/act_pon.mp3"},
-
-    "26":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/qianzhi/act_pon.mp3"},
-
-    "27":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yiji/act_kan.mp3"},
-
-    "28":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/qianzhi/act_kan.mp3"},
-
-    "29":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yiji/act_chi.mp3"},
-
-    "30":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/qianzhi/act_chi.mp3"},
-
-    "31":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yiji/act_rich.mp3"},
-
-    "32":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/qianzhi/act_rich.mp3"},
-
-    "33":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yiji/act_ron.mp3"},
-
-    "34":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/qianzhi/act_ron.mp3"},
-
-    "35":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yiji/act_tumo.mp3"},
-
-    "36":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/qianzhi/act_tumo.mp3"},
-
-    "25":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/fuji/act_pon.mp3"},
-
-    "26":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/bamuwei/act_pon.mp3"},
-
-    "27":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/fuji/act_kan.mp3"},
-
-    "28":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/bamuwei/act_kan.mp3"},
-
-    "29":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/fuji/act_chi.mp3"},
-
-
-    "30":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/bamuwei/act_chi.mp3"},
-
-    "31":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/fuji/act_rich.mp3"},
-
-    "32":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/bamuwei/act_rich.mp3"},
-
-    "33":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/fuji/act_ron.mp3"},
-
-    "34":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/bamuwei/act_ron.mp3"},
-
-    "35":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/fuji/act_tumo.mp3"},
-
-    "36":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/bamuwei/act_tumo.mp3"},
-
-    "40":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/winlose.mp3"},
-
-    "41":{"url":"https://raw.githubusercontent.com/TanakaKotoha/tenhou-se-and-bg/master/yakuman.mp3"},
-
-  }
-
-} 
-
+{
+  "ver":1.0,
+  "se":{
+      "27":{"url":"https://github.com/rinndousion/se/tree/audio/kan.wav"},
+      "25":{"url":"https://github.com/rinndousion/se/tree/audio/pen.wav"},
+      "29":{"url":"https://github.com/rinndousion/se/tree/audio/tsu.wav"},
+      "31":{"url":"https://github.com/rinndousion/se/tree/audio/litsu.wav"},
+      "33":{"url":"https://github.com/rinndousion/se/tree/audio/ron.wav"},
+      "35":{"url":"https://github.com/rinndousion/se/tree/audio/tsumo.wav"},
+      "26":{"url":"https://github.com/rinndousion/se/tree/audio/m_600.wav"},
+      "28":{"url":"https://github.com/rinndousion/se/tree/audio/m_602.wav"},
+      "30":{"url":"https://github.com/rinndousion/se/tree/audio/m_601.wav"},
+      "32":{"url":"https://github.com/rinndousion/se/tree/audio/m_603.wav"},
+      "34":{"url":"https://github.com/rinndousion/se/tree/audio/m_604.wav"},
+      "36":{"url":"https://github.com/rinndousion/se/tree/audio/m_605.wav"},
+      "40":{"url":"https://github.com/rinndousion/se/tree/audio/s_601.wav"},
+      "10":{"url":"https://github.com/rinndousion/se/tree/audio/s_602.wav"},
+      "11":{"url":"https://github.com/rinndousion/se/tree/audio/s_2327.wav"}
+        }
 }
